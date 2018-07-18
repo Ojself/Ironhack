@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  font-family: Roboto;
+  font-size: 10px;
+  line-height: 3.5em;
+  font-weight: 300;
+}
+
+.nav-bar {
+  background: rgb(25, 33, 41);
+  padding: 14px;
+  height: 40px;
+}
+
+.nav-bar-ul{
+  width: 1200px;
+  margin 0 auto;
+  
+}
+
+.nav-bar-item {
+  color: white;
+  text-decoration:;
+  font-size: 2em;
+  
+}
+
+.nav-bar-li {
+  list-style-type: none;
+  text-align: center;
+  float: left;
+  width: 33%;
+
+
+}
+
+.header {
+  background-image: url(https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg);
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  padding-top: 50px;
+  position: relative
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 75px 0;
+}
+.col {float:left}
+.col-middle {}
+.col-3 {
+  margin-left:5%;
+  margin-right:5%;
+}
+.clearfix { clear: both; }
+
+#trip {
+  color: white;
+  text-shadow: #020819 8px -20px 9px;
+  font-size:;
+}
+
+.quote {
+  font-size: 2.5em;
+  position: absolute;
+  bottom: 15vh;
+  left: 10%;
+  
+}
+
+#s1 {
+  background: rgb(25, 33, 41);
+  color: white;
+}
+
+.text {
+  font-size: 2em;
+  font-weight: 100;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.dark-background {
+  background: #192129;
+  color: white;
+}
+
+.link-btn {
+  background: #43A3E6;
+  color: white;
+  font-family: Roboto Condensed;
+  font-size: 2em;
+  text-align: right;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  display:block;
+  width:150px;
+  Margin-top: 40px;
+  Margin-right: auto;
+  Margin-bottom: 0;
+  Margin-left: auto;
+  padding-top:14px;
+  padding-right:20px;
+  padding-bottom:14px;
+  padding-top:20px;
+  border-width:2px;
+  border-color:black;
+  border-style:solid;
+  border-opacity:0,2t
+}
+
+.service-box{
+  font-size: 1.7em;
+  text-align: center;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #eee;
+  border-radius: 20px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 10px 0 #eee;
+  margin-top: 50px;
+  margin-bottom: 0;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  width: 40%;
+  
+
+}
+
+.img {
+  width: 125px;
+}
+
+.section-text {
+  font-size: 1.9em;
+  text-align: center;
+  width: 60%;
+  margin: 10px auto;
+}
+
+.member-name {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.hr {
+  margin-top:20px;
+  margin-bottom:30px;
+  margin-left:auto;
+  margin-right:auto;
+  width: 40%;
+}
+
+.footer
+{
+  text-align: center;
+  font-size: 1.9em;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-bottom: 25px;
+}
+
+.adress {
+  font-style: normal;
+  font-size: 0.8em;
+  margin-bottom: 30px
+}
+
+.link {
+  color: #43A3E6;
+  text-decoration: none;
+}
+
+
+h1 {
+  font-size: 9em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 5em;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 4em;
+}
+
+h3 {
+  font-size: 4.2em;
+  text-align: center; 
+}
+
+h4 {
+  font-size: 1.5em;
+  letter-spacing: 0.4px;
+  margin-bottom: 15px;
+}
+
+h5 {
+  font-size: 1.2em;
+}
